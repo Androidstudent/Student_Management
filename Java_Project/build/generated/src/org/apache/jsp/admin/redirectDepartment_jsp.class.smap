@@ -1,0 +1,15 @@
+SMAP
+redirectDepartment_jsp.java
+JSP
+*S JSP
+*F
++ 0 redirectDepartment.jsp
+admin/redirectDepartment.jsp
+*L
+5,33:44
+38:77,2
+39,2:79,3
+41,7:85
+48:92,3
+49,20:95
+*E

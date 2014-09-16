@@ -1,0 +1,26 @@
+Passwords
+
+Database:
+username: groupb
+password: password
+
+=======================
+Administrator Access:
+Username: admin
+Password: admin
+
+Instructor Access:
+Username: I1 (make Sure "I" is Capital)
+Password: 123
+
+Student Access:
+Username: S1 (make Sure "S" is Capital)
+Password: 123
+
+====================================
+Group B
+Student Names:
+1. Raj Pandya
+2.Nishit Shah
+3.Maharshi Patel
+4.Jay Patel.

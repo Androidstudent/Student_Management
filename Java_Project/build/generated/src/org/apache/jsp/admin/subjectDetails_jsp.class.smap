@@ -1,0 +1,21 @@
+SMAP
+subjectDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 subjectDetails.jsp
+admin/subjectDetails.jsp
+*L
+1,46:57
+46:135,11
+47,2:146
+48:190,5
+48,2:150
+49:208,5
+49,2:154
+50:226,5
+50,2:158
+51:244,5
+51,4:162
+54,13:105
+*E

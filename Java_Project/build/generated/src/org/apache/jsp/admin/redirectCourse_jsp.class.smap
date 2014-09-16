@@ -1,0 +1,16 @@
+SMAP
+redirectCourse_jsp.java
+JSP
+*S JSP
+*F
++ 0 redirectCourse.jsp
+admin/redirectCourse.jsp
+*L
+1,32:44
+33:76,2
+34:78
+35:79,3
+36,3:82
+39:85,3
+40,31:88
+*E
